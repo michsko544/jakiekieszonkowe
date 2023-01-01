@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/damitab778/IO-Projekt#readme",
   "devDependencies": {
-    "webpack": "^4.39.3"
+    "webpack": "^5.75.0"
   }
 }
